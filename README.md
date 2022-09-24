@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Lucas Maciel Souza
-- 👀 I’m interested in Develop my programing skills and maybe get a new job on the way
-- 🌱 I’m currently learning HTML5, CSS3 and JS
-- 💞️ I’m looking to collaborate on WEB Projects
-- 📫 How to reach me lucasmaciel.emailprofissional@gmail.com
+## 🤩 Olá, Meu nome é Lucas, <br> 📚 Sou desenvolvedor júnior e estudante de desenvolvimento Front-End 
+<div align="center">
+<br>
+  <a href="https://github.com/LucasStorm">
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=LucasStorm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasStorm&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
-<!---
-LucasStorm/LucasStorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-HTML" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Js" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Vs" height="45" width="50" src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png">
+  <br>
+  <br>
+  <a href = "mailto:lucasmaciel.emailprofissional@gmail.com" target="_blank"><img align="center" alt="Lucas-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "https://github.com/LucasStorm" target="_blank"><img align="center" alt="Lucas-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/lucas.maciel_z" target="_blank"><img align="center" alt="Lucas-Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ </div>
+
+##
+
