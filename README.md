@@ -1,4 +1,4 @@
-## 🤩 Olá, Meu nome é Lucas, <br> 📚 Sou desenvolvedor júnior e estudante de desenvolvimento Front-End 
+## 🤩 Olá, Meu nome é Lucas, <br> 📚 Sou desenvolvedor júnior e estudante de desenvolvimento Web/Front-End 
 <div align="center">
 <br>
   <a href="https://github.com/LucasStorm">
