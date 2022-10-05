@@ -1,4 +1,4 @@
-## Hello, i'm Lucas 🤩 <br> I'm learning the basics of web/front-end developer 📚
+## Hello, i'm Lucas 🤩 <br> I'm learning the basics of web/front-end developer (HTML5, CSS3 and JS) 📚💻
 #### About me:
 * I'm 21 years old 👴🏻
 * I live in Brazil 🌎
