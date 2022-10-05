@@ -1,4 +1,9 @@
-## 🤩 Olá, Meu nome é Lucas, <br> 📚 Sou desenvolvedor júnior e estudante de desenvolvimento Web/Front-End 
+## Hello, i'm Lucas 🤩 <br> I'm learning the basics of web/front-end developer 📚
+#### About me:
+* I'm 21 years old 👴🏻
+* I live in Brazil 🌎
+* I want to contribute to this developer comunity, and maybe get a remote job on the way (it's my dream) 😁
+
 <div align="center">
 <br>
   <a href="https://github.com/LucasStorm">
